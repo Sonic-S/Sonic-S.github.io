@@ -1,0 +1,50 @@
+h1{
+  font-family: 'Source Code Pro', monospace;
+  margin-left: 1.66%;
+  text-transform: uppercase;
+  padding-bottom: 10px;
+  border-bottom: 1px solid gray;
+  width: 30%;
+}
+
+/* 1. Responsive font-size of H1.
+   2. Halo effect when images are selected.
+   3. */
+
+
+/* h4{
+  font-family: 'Source Code Pro', monospace;
+  font-size: 10px;
+  margin-right: 1.66%;
+  padding-top: 10px;
+  text-align: right;
+} */
+
+div {
+  font-family: 'Source Code Pro', monospace;
+  font-size: 25px;
+  font-weight: 500;
+  margin: 20px;
+  text-align: center;
+}
+img {
+  width: 30%;
+  margin: 1.66%;
+  float: left;
+
+}
+
+img:hover {
+  -webkit-box-shadow: 5px 5px 18px 2px rgba(0,0,0,0.4);
+  -moz-box-shadow: 5px 5px 18px 2px rgba(0,0,0,0.4);
+  box-shadow: 5px 5px 18px 2px rgba(0,0,0,0.4);
+}
+
+
+
+
+
+
+body {
+  margin: 50px;
+}
